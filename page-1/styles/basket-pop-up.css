@@ -1,0 +1,1535 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.basket-pop-up-ehX {
+  width: 100%;
+  height: 500rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd {
+  width: 137.9rem;
+  height: 77.7rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 25.1rem;
+  display: flex;
+  align-items: flex-start;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j {
+  margin-right: 9.4rem;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .grilled-chicken-D8M {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .pizzas-KhB {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .fried-chicken-4uf {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .vegetarian-p89 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .burgers-ZLd {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .wraps-Vk5 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .mixed-grill-r4q {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .fresh-naan-PqT {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .value-box-kAD {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .kids-meals-VNh {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .sides-ciD {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-9m8d-63j .drinks-ZNZ {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u {
+  margin-top: 0.6rem;
+  width: 115.1rem;
+  height: 77.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-71-aoT {
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 55.1rem;
+  border: solid 0.5rem #f4f3f3;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-72-uKw {
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 67.2rem;
+  border: solid 0.5rem #f4f3f3;
+  box-sizing: border-box;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-70-END {
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 0;
+  top: 43rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .peri-peri-chicken-y4u {
+  width: 29.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 6.6rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-449-5Nq {
+  width: 7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0;
+  top: 12.3rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .x-pearls-classic-peri-peri-chicken-wings-yz1 {
+  width: 43.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 18rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.16;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-45-spV {
+  width: 115.1rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0;
+  top: 29.4rem;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .select-size-Crm {
+  width: 14.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 31.5rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .peri-peri-chicken-XPF {
+  width: 27.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 46.5rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-200-RjX {
+  width: 8.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 68.9rem;
+  top: 58.6rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-400-uub {
+  width: 8.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 68.9rem;
+  top: 70.7rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .peri-peri-chicken-ok5 {
+  width: 27.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 58.6rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .full-peri-peri-chicken-ic9 {
+  width: 27.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.7rem;
+  top: 70.7rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .required-qAy {
+  width: 10.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 3.8rem;
+  top: 35.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #e59030;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .vector-9SZ {
+  width: 3rem;
+  height: 2rem;
+  position: absolute;
+  left: 107.1rem;
+  top: 46.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .image-19-ghP {
+  width: 29rem;
+  height: 20.3rem;
+  position: absolute;
+  left: 86.1rem;
+  top: 3.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-85-Cvd {
+  width: 53.5rem;
+  height: 77.1rem;
+  position: absolute;
+  left: 61.6rem;
+  top: 0;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .x-ity {
+  width: 1.75rem;
+  height: 1.75rem;
+  position: absolute;
+  left: 65.975rem;
+  top: 3.575rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-88-f3X {
+  width: 44.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 66rem;
+  top: 68.2rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .go-to-checkout-zLh {
+  width: 16.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 73.55rem;
+  top: 69.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-998-Hah {
+  width: 6.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 97.9rem;
+  top: 69.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .ellipse-50-n1f {
+  width: 0.7rem;
+  height: 0.7rem;
+  position: absolute;
+  left: 94rem;
+  top: 71.2rem;
+  background-color: #ffffff;
+  border-radius: 0.35rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .select-meal-6o3 {
+  width: 9.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 39.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .single-cWV {
+  width: 5.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 43.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #7a7b7b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .pearls-peri-peri-XNZ {
+  width: 24rem;
+  height: 3rem;
+  position: absolute;
+  left: 66rem;
+  top: 9.65rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 800;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .peri-peri-chicken-3Lu {
+  width: 18.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 18.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-998-xTs {
+  width: 6.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 104.5rem;
+  top: 18.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .select-size-4mo {
+  width: 9.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 23.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .peri-peri-chicken-ak9 {
+  width: 18rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 27.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #7a7b7b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .select-flavour-hZs {
+  width: 12.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 56.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .hot-1Kf {
+  width: 3.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 60.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #7a7b7b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .select-flavour-Kr9 {
+  width: 12.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 31.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .hot-Ey7 {
+  width: 3.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 35.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #7a7b7b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-86-ALy {
+  width: 6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 66rem;
+  top: 17.9rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .vector-Ve9 {
+  width: 1.2rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 20.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-2-qCD {
+  width: 1.4rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 67.2rem;
+  top: 18.45rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .wings-8SD {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 75.9rem;
+  top: 51.6rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-449-e9f {
+  width: 6.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 104.5rem;
+  top: 51.6rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .rectangle-87-xAM {
+  width: 6rem;
+  height: 4.5rem;
+  position: absolute;
+  left: 66rem;
+  top: 50.8rem;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .vector-gc9 {
+  width: 1.2rem;
+  height: 0.6rem;
+  position: absolute;
+  left: 69.5rem;
+  top: 53rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.basket-pop-up-ehX .auto-group-nqd7-NNd .auto-group-zz9p-W2u .item-1-pTT {
+  width: 1.4rem;
+  height: 3.3rem;
+  position: absolute;
+  left: 67.2rem;
+  top: 51.35rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF {
+  width: 115.4rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 457.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq {
+  margin: 0rem 0rem 3.9rem 0.2rem;
+  height: 27.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-9-xi5 {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-9-xi5 .order-about-us-contact-us-main-dishes-suggest-a-restaurant-locations-hff {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-9-xi5 .navigation-mvR {
+  width: 7.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-12-Hds {
+  margin-right: 18.3rem;
+  width: 15.7rem;
+  height: 23.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-12-Hds .partner-centre-partner-accessories-shop-support-tickets-add-your-restaurant-Rk5 {
+  width: 15.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-12-Hds .partners-resellers-7so {
+  width: 14.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-10-dr9 {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-10-dr9 .privacy-policy-cookie-policy-info-for-restaurants-faq-get-help-important-documents-PaR {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-10-dr9 .support-sVb {
+  width: 5.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy {
+  width: 12rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy .follow-us-9T7 {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy .auto-group-opft-rcR {
+  width: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy .auto-group-opft-rcR .facebook-f-ba1 {
+  margin-bottom: 0.2rem;
+  width: 2.5rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy .auto-group-opft-rcR .instagram-LGh {
+  width: 3.3rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pnem-SUq .group-11-CGy .auto-group-opft-rcR .twitter-t3K {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .line-2-1td {
+  margin: 0rem 0.2rem 3.4rem 0rem;
+  width: 115.2rem;
+  height: 0.1rem;
+  background-color: rgba(16, 26, 36, 0.1000000015);
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pghf-8iM {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 2.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pghf-8iM .copyright-Fny {
+  margin-right: 55.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pghf-8iM .copyright-Fny .copyright-symbol-svgrepo-com-1-cNd {
+  margin: 0.2rem 1rem 0rem 0rem;
+  width: 1.3rem;
+  height: 1.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pghf-8iM .copyright-Fny .tiffintom-ltd-all-rights-reserved-veD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .copyrighter-section-8DF .auto-group-pghf-8iM .terms-of-service-privacy-policy-eKK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 {
+  width: 138.6rem;
+  height: 6.6rem;
+  position: absolute;
+  left: 5.9rem;
+  top: 5.6rem;
+  display: flex;
+  align-items: flex-end;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .navigation-icon-Vaq {
+  margin-right: 3.4rem;
+  box-sizing: border-box;
+  padding: 1.5rem 0.65rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .navigation-icon-Vaq .vector-btm {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .navigation-icon-Vaq .vector-Yp1 {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .navigation-icon-Vaq .vector-JoB {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .tiffiniconwhite-2-TRB {
+  margin: 0rem 10.4rem 0.1rem 0rem;
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  background-size: 236.308% 293.763%;
+  background-position: -0rem -11.5183rem;
+  background-image: url('../assets/tiffiniconwhite-2-p9X.png');
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-x8rd-937 {
+  margin: 0.8rem 5.1rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 3.35rem 1.3rem 2.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-x8rd-937 .map-pin-FM3 {
+  margin: 0.1rem 2.25rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-x8rd-937 .ws1-4ba-aPK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-ff5s-HoX {
+  margin: 0.8rem 26.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 3.95rem 1.3rem 2.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-ff5s-HoX .search-CQh {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .auto-group-ff5s-HoX .search-restaurant-or-cuisine-KVK {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.6111111111;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .log-in-button-D4u {
+  margin: 0.8rem 2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 3.1rem 1.5rem 1.825rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .log-in-button-D4u .person-1-j3F {
+  margin: 0.3rem 3.225rem 0rem 0rem;
+  width: 1.75rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .log-in-button-D4u .log-in-45X {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .sign-up-button-yiH {
+  margin-top: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.55rem 1.1rem 1.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .sign-up-button-yiH .chevron-up-6nu {
+  margin-right: 1.8025rem;
+  width: 2.8475rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-mfpx-Nm7 .sign-up-button-yiH .sign-up-dnq {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .quantity-wHj {
+  width: 11.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 81rem;
+  top: 240.4rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ {
+  width: 137.9rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 18rem;
+  display: flex;
+  align-items: center;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .auto-group-kbm3-P9j {
+  box-sizing: border-box;
+  padding: 1.4rem 65.7rem 1.3rem 0rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .auto-group-kbm3-P9j .menu-iSu {
+  margin-right: 16.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .auto-group-kbm3-P9j .back-arrow-Sth {
+  margin: 0.483rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 1.9833rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .auto-group-kbm3-P9j .back-to-menu-Aph {
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu {
+  box-sizing: border-box;
+  padding: 1.3rem 2.2rem 1.3rem 2.313rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .shopping-cart-oMs {
+  margin: 0.1rem 1.976rem 0rem 0rem;
+  width: 2.4769rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .basket-vSV {
+  margin: 0rem 1.235rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .ellipse-15-qJZ {
+  margin: 0.6rem 1.3rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .item-4-juj {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .ellipse-49-rDf {
+  margin: 0.6rem 1.4rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-ybtd-3rZ .log-in-button-tEu .item-1496-xXb {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-bnbb-EV7 {
+  width: 12.7rem;
+  height: 3.25rem;
+  position: absolute;
+  left: 80.6rem;
+  top: 246.75rem;
+  display: flex;
+  column-gap: 2.2rem;
+  align-items: flex-start;
+}
+.basket-pop-up-ehX .auto-group-bnbb-EV7 .auto-group-meev-xAD {
+  margin-top: 0.05rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-bnbb-EV7 .item-2-5Vj {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-bnbb-EV7 .auto-group-pqtz-oRj {
+  margin-top: 0.05rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-waau-wH3 {
+  box-sizing: border-box;
+  padding: 3.5rem 37.3rem 3.5rem 3.8rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 226.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-waau-wH3 .meal-qdK {
+  margin-right: 58.8rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-waau-wH3 .item-249-BBP {
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-c425-J17 {
+  box-sizing: border-box;
+  padding: 3.5rem 4.6rem 3.5rem 3.8rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 214.4rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-c425-J17 .single-Bqb {
+  margin-right: 95.4rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-c425-J17 .vector-KB7 {
+  margin-top: 0.1rem;
+  width: 3rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-wz5k-qv9 {
+  box-sizing: border-box;
+  padding: 2.1rem 3.8rem 2rem 3.8rem;
+  width: 115.1rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 200.8rem;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-wz5k-qv9 .select-meal-knD {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-wz5k-qv9 .required-ttR {
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #e59030;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-mpub-DQu {
+  box-sizing: border-box;
+  padding: 3.5rem 3.8rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 135.5rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-yhfp-5i1 {
+  box-sizing: border-box;
+  padding: 3.5rem 3.7rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 147.6rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-m6qh-kZF {
+  box-sizing: border-box;
+  padding: 3.5rem 3.8rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 123.4rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-w2vd-R9b {
+  box-sizing: border-box;
+  padding: 2.1rem 3.8rem 2rem 3.8rem;
+  width: 115.1rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 109.8rem;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-w2vd-R9b .select-flavour-vMF {
+  margin-bottom: 1.5rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-w2vd-R9b .required-f3w {
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #e59030;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.basket-pop-up-ehX .auto-group-xw7o-BHB {
+  box-sizing: border-box;
+  padding: 4.15rem 12.8rem 4.25rem 12.6rem;
+  width: 65rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 54.5rem;
+  top: 255.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-xw7o-BHB .add-2-to-order-GpR {
+  margin-right: 5.1rem;
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-xw7o-BHB .ellipse-27-CTB {
+  margin: 1.1rem 3.3rem 0rem 0rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-xw7o-BHB .item-998-iwK {
+  display: flex;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-scs3-ea5 {
+  box-sizing: border-box;
+  padding: 3.5rem 4.6rem 3.5rem 3.8rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 159.7rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-scs3-ea5 .hot-MUV {
+  margin-right: 98.9rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-scs3-ea5 .vector-Vah {
+  margin-top: 0.1rem;
+  width: 3rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.basket-pop-up-ehX .auto-group-cjv5-2ad {
+  box-sizing: border-box;
+  padding: 3.5rem 3.7rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 171.8rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}
+.basket-pop-up-ehX .auto-group-hptr-QbB {
+  box-sizing: border-box;
+  padding: 3.5rem 3.7rem;
+  width: 115.1rem;
+  height: 9.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 183.9rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.5rem #f4f3f3;
+  border-radius: 1rem;
+}

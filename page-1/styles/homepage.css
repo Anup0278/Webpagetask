@@ -1,0 +1,1136 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.homepage-ZSZ {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm {
+  box-sizing: border-box;
+  padding: 6.1rem 0rem 10.5rem 0rem;
+  width: 100%;
+  height: 108rem;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(180deg, #e48b27 -0%, rgba(228, 139, 39, 0.8523437977) 99.99%, rgba(228, 139, 39, 0.8500000238) 100%);
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh {
+  width: 94.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 {
+  margin: 0rem 48.8rem 24.5rem 32.3rem;
+  width: calc(100% - 81.1rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 .navigation-icon-TgM {
+  margin-right: 4.1rem;
+  box-sizing: border-box;
+  padding: 1.5rem 0.65rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 .navigation-icon-TgM .vector-mBF {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 .navigation-icon-TgM .vector-7F7 {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 .navigation-icon-TgM .vector-GNu {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-pjjm-wi1 .tiffiniconwhite-1-cBs {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  background-size: 236.308% 293.763%;
+  background-position: -0rem -11.5183rem;
+  background-image: url('../assets/tiffiniconwhite-1.png');
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs {
+  margin: 0rem 0rem 8.7rem 28.1rem;
+  max-width: 58.4rem;
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-0 {
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-1 {
+  font-size: 8rem;
+  font-weight: 800;
+  line-height: 0.9;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-2 {
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-3 {
+  font-size: 8rem;
+  font-weight: 800;
+  line-height: 0.9;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-4 {
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .order-your-favourite-dishes-uRs .order-your-favourite-dishes-uRs-sub-5 {
+  font-size: 8rem;
+  font-weight: 700;
+  line-height: 0.9;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d {
+  margin: 0rem 0rem 1.9rem 32.3rem;
+  width: calc(100% - 32.3rem);
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 5rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d .auto-group-sggr-5QD {
+  box-sizing: border-box;
+  padding: 1.5rem 25.4rem 1.5rem 1.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d .auto-group-sggr-5QD .near-me-1Ym {
+  margin-right: 1.4rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d .auto-group-sggr-5QD .enter-your-postcode-8tH {
+  margin-bottom: 0.1rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 1.16;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d .auto-group-mvcz-s5B {
+  box-sizing: border-box;
+  padding: 1.425rem 3.18rem 1.18rem 2.925rem;
+  height: 100%;
+  background-color: #000000;
+  border-radius: 0 5rem 5rem 0;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .search-bar-input-button-m8d .auto-group-mvcz-s5B .search-zfb {
+  width: 3.395rem;
+  height: 3.395rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV {
+  margin-right: 6.9rem;
+  box-sizing: border-box;
+  padding-left: 35rem;
+  width: 88rem;
+  height: 29.4rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH {
+  box-sizing: border-box;
+  padding: 4.8rem 0rem 4.8rem 4.2rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .restaurant-counter-xVw {
+  margin: 0rem 4.6rem 5.2rem 0rem;
+  box-sizing: border-box;
+  padding: 0rem 0.45rem 1.35rem 0.45rem;
+  width: 22.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .restaurant-counter-xVw .auto-group-efhk-GFj {
+  margin: 0rem 0.65rem 1.35rem 0.55rem;
+  width: calc(100% - 1.2rem);
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #101a24;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .restaurant-counter-xVw .restaurants-jQD {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .user-counter-eXB {
+  margin-bottom: 5.2rem;
+  box-sizing: border-box;
+  padding: 0rem 1.1rem 1.35rem 1rem;
+  width: 22.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .user-counter-eXB .auto-group-4yj1-y3f {
+  margin-bottom: 1.35rem;
+  width: 100%;
+  height: 9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-gcwd-orh .auto-group-gow1-JAV .auto-group-yiss-2cH .user-counter-eXB .users-rNM {
+  margin-left: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s {
+  margin-top: 0.4rem;
+  width: 70.8081rem;
+  height: 91rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .sign-up-button-button-gsB {
+  box-sizing: border-box;
+  padding: 1.1rem 2.25rem 1.1rem 1.2rem;
+  width: 15.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 31.8rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 1rem;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .sign-up-button-button-gsB .chevron-up-mdj {
+  margin: 0.1rem 1.503rem 0rem 0rem;
+  width: 2.8474rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .sign-up-button-button-gsB .sign-up-Hc5 {
+  margin-bottom: 0.5rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3181818182;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .log-in-button-button-bMs {
+  box-sizing: border-box;
+  padding: 1.1rem 2.95rem 1.3rem 1.2rem;
+  width: 15.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 13rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #000000;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .log-in-button-button-bMs .person-1-Vy3 {
+  margin: 0.2rem 2.25rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .log-in-button-button-bMs .log-in-E9w {
+  margin-bottom: 0.3rem;
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.3181818182;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-e1gd-hYm .auto-group-4tw1-Z1s .burger-image-7Dj {
+  width: 54rem;
+  height: 75.8rem;
+  position: relative;
+  left: 0;
+  top: 15.2rem;
+  background-size: 105.926% 113.179%;
+  background-position: -2.2rem -4.9948rem;
+  background-image: url('../assets/burger-image.png');
+}
+.homepage-ZSZ .auto-group-masm-LMP {
+  width: 151.7rem;
+  height: 199rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-masm-LMP .rectangle-6-JhX {
+  opacity: 0.05;
+  width: 151.6rem;
+  height: 187.7rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 11.3rem;
+  background-color: rgba(16, 26, 36, 0.0500000007);
+}
+.homepage-ZSZ .auto-group-masm-LMP .restaurants-near-you-DpV {
+  width: 57.8rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 12.95rem;
+  top: 38.2rem;
+  text-align: center;
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 1.0833333333;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .view-all-cities-7us {
+  width: 15rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 132.3rem;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 2.6;
+  text-decoration-line: underline;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .aberdeen-belfast-birmingham-brighton-and-sussex-cambridge-and-east-anglia-cardiff-q5B {
+  width: 28.7rem;
+  height: 39rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 138.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-masm-LMP .edinburgh-glasgow-hull-leeds-leicester-london-uqj {
+  width: 11.2rem;
+  height: 39rem;
+  position: absolute;
+  left: 61.8rem;
+  top: 138.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-masm-LMP .bike-container-QnV {
+  width: 50.4rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-size: 101.667% 108.444%;
+  background-position: -0.812rem 0;
+  background-image: url('../assets/image-4-bg.png');
+}
+.homepage-ZSZ .auto-group-masm-LMP .bike-container-QnV .rectangle-19-9VB {
+  width: 50.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.homepage-ZSZ .auto-group-masm-LMP .bike-container-QnV .job-opportunities-UnM {
+  width: 28.2rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 11.25rem;
+  top: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.8571428571;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .bike-container-QnV .become-a-reseller-for-us-Ncq {
+  width: 25.6rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 12.25rem;
+  top: 14.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .bike-container-QnV .bike-container-QnV-bg {
+  width: 50.4rem;
+  height: 31.5rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:165a9be00236e2de4644cdee77e23b898287a5ca');
+}
+.homepage-ZSZ .auto-group-masm-LMP .person-container-C65 {
+  width: 50.4rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 50.3rem;
+  top: 0;
+  background-size: 101.778% 108.563%;
+  background-position: -0.896rem -0.0187rem;
+  background-image: url('../assets/image-5-bg.png');
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.homepage-ZSZ .auto-group-masm-LMP .person-container-C65 .shop-hardware-X8M {
+  width: 23.9rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 13.9rem;
+  top: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.8571428571;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .person-container-C65 .get-your-order-pad-here-2L1 {
+  width: 25.5rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 14.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .person-container-C65 .person-container-C65-bg {
+  width: 50.4rem;
+  height: 31.5rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:70601a7673a6dd2e322978213fbd83669b0df818');
+}
+.homepage-ZSZ .auto-group-masm-LMP .food-container-Ews {
+  width: 50.5rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 100.7rem;
+  top: 0;
+  background-size: 101% 107.733%;
+  background-position: -0.4769rem 0;
+  background-image: url('../assets/image-6-bg.png');
+}
+.homepage-ZSZ .auto-group-masm-LMP .food-container-Ews .rectangle-21-nCh {
+  width: 50.2rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.200000003);
+}
+.homepage-ZSZ .auto-group-masm-LMP .food-container-Ews .join-the-movement-Xg5 {
+  width: 30.3rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 10.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 1.8571428571;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .food-container-Ews .add-your-restaurant-pQH {
+  width: 21.4rem;
+  height: 6.5rem;
+  position: absolute;
+  left: 14.35rem;
+  top: 14.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-masm-LMP .food-container-Ews .food-container-Ews-bg {
+  width: 50.5rem;
+  height: 31.5rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:674a5af63500cffd5433b06f4b23a413e1c96f45');
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm {
+  width: 128rem;
+  height: 80rem;
+  position: absolute;
+  left: 11.6rem;
+  top: 50.9rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/basemap-image-bg.png');
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-b3f {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 68.8rem;
+  top: 14rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-i8H {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 68.4rem;
+  top: 43.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-cjT {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 59.2rem;
+  top: 38.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-jZB {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 71.4rem;
+  top: 28.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-45f {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 56.5rem;
+  top: 22.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-BRB {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 41.7rem;
+  top: 39rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-huK {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 62.4rem;
+  top: 46.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-RqK {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 82.8rem;
+  top: 28.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-Miy {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 77.4rem;
+  top: 56.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .figmap-rrm .default-marker-component-Uob {
+  width: 1.6rem;
+  height: 2rem;
+  position: absolute;
+  left: 39.2rem;
+  top: 62.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.homepage-ZSZ .auto-group-masm-LMP .manchester-merseyside-north-east-northampton-milton-keynes-nottingham-AgR {
+  width: 15.2rem;
+  height: 39rem;
+  position: absolute;
+  left: 94.2rem;
+  top: 138.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-masm-LMP .oxford-sheffield-south-coast-south-west-stoke-4G1 {
+  width: 12.6rem;
+  height: 32.5rem;
+  position: absolute;
+  left: 124.8rem;
+  top: 138.8rem;
+  font-size: 2.5rem;
+  font-weight: 600;
+  line-height: 2.6;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF {
+  box-sizing: border-box;
+  padding: 5.3rem 4.2rem 4.8rem 10.2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj {
+  margin-bottom: 2.95rem;
+  width: 100%;
+  height: 65.75rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .download-the-app-pPb {
+  width: 32.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 48.65rem;
+  top: 62.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 0.725;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .group-50-iUy {
+  width: 136.8rem;
+  height: 62.4rem;
+  position: absolute;
+  left: 0;
+  top: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .discover-1-rbB {
+  width: 33rem;
+  height: 58.9rem;
+  position: absolute;
+  left: 87.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd {
+  width: 61.7rem;
+  height: 27.9rem;
+  position: absolute;
+  left: 7rem;
+  top: 16.05rem;
+  display: flex;
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 0.725;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd-sub-0 {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1.125;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd-sub-1 {
+  font-size: 4rem;
+  font-weight: 600;
+  line-height: 0.725;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-kbey-UKj .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd .download-the-tiffintom-app-on-your-phone-or-tablet-get-your-favourite-food-delivered-in-a-flash-youll-see-when-your-riders-picked-up-your-order-and-be-able-to-follow-them-along-the-way-youll-get-a-notification-when-theyre-nearby-too-nzd-sub-2 {
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-5t9p-hff {
+  margin: 0rem 47.4rem 11.1rem 40.4rem;
+  width: calc(100% - 87.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-5t9p-hff .download-on-app-store-1-RLm {
+  margin-right: 1.9rem;
+  width: 20.8rem;
+  height: 6.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-5t9p-hff .googleplay-1-9nZ {
+  width: 26.3rem;
+  height: 9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm {
+  margin: 0rem 13.8rem 15.5rem 7.9rem;
+  box-sizing: border-box;
+  padding: 9.3rem 14.15rem 5.8rem 13.95rem;
+  width: calc(100% - 21.7rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/mask-group.png');
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .subscribe-to-our-newsletter-for-updates-and-exclusive-promotions-zHP {
+  margin-bottom: 6rem;
+  max-width: 87rem;
+  text-align: center;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP {
+  margin: 0rem 10.65rem 0rem 9.65rem;
+  box-sizing: border-box;
+  padding: 1.1rem 1.6rem 1.1rem 1.8rem;
+  width: calc(100% - 20.3rem);
+  height: 8rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP .group-8-input-button-nDF {
+  box-sizing: border-box;
+  padding-left: 0.45rem;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1rem;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP .group-8-input-button-nDF .enter-your-email-v4Z {
+  margin: 0rem 35.05rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #101a24;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP .group-8-input-button-nDF .auto-group-qrkr-pfj {
+  width: 15rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP .group-8-input-button-nDF .auto-group-qrkr-pfj .rectangle-13-BFP {
+  width: 15rem;
+  height: 5.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ea6d27;
+  border-radius: 1rem;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .auto-group-8cvm-Htm .auto-group-fjfo-HXP .group-8-input-button-nDF .auto-group-qrkr-pfj .subscribe-WoT {
+  width: 7rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 4.05rem;
+  top: 0;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 3.625;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM {
+  margin: 0rem 13.7rem 0rem 7.7rem;
+  width: calc(100% - 21.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j {
+  margin: 0rem 0rem 3.9rem 0.2rem;
+  height: 27.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-9-PVs {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-9-PVs .order-about-us-contact-us-main-dishes-suggest-a-restaurant-locations-YNm {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-9-PVs .navigation-pbB {
+  width: 7.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-12-YGH {
+  margin-right: 18.3rem;
+  width: 15.7rem;
+  height: 23.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-12-YGH .partner-centre-partner-accessories-shop-support-tickets-add-your-restaurant-5n1 {
+  width: 15.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-12-YGH .partners-resellers-B4M {
+  width: 14.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-10-gmo {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-10-gmo .privacy-policy-cookie-policy-info-for-restaurants-faq-get-help-important-documents-SFB {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-10-gmo .support-Kpm {
+  width: 5.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd {
+  width: 12rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd .follow-us-bnH {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd .auto-group-pmud-KCV {
+  width: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd .auto-group-pmud-KCV .facebook-f-dys {
+  margin-bottom: 0.2rem;
+  width: 2.5rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd .auto-group-pmud-KCV .instagram-NgZ {
+  width: 3.3rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-rwch-s1j .group-11-FCd .auto-group-pmud-KCV .twitter-KLu {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .line-2-43b {
+  margin: 0rem 0.2rem 3.4rem 0rem;
+  width: 115.2rem;
+  height: 0.1rem;
+  background-color: rgba(16, 26, 36, 0.1000000015);
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-w2kt-mih {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 2.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-w2kt-mih .copyright-t2d {
+  margin-right: 55.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-w2kt-mih .copyright-t2d .copyright-symbol-svgrepo-com-1-EcH {
+  margin: 0.2rem 1rem 0rem 0rem;
+  width: 1.3rem;
+  height: 1.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-w2kt-mih .copyright-t2d .tiffintom-ltd-all-rights-reserved-kqX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.homepage-ZSZ .auto-group-m8c9-9oF .copyrighter-section-YEM .auto-group-w2kt-mih .terms-of-service-privacy-policy-tB3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

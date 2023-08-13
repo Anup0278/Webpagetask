@@ -1,0 +1,3381 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.restaurant-information-9ys {
+  width: 100%;
+  height: 500rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.restaurant-information-9ys .copyrighter-section-DcM {
+  width: 115.4rem;
+  height: 37.9rem;
+  position: absolute;
+  left: 17.9rem;
+  top: 457.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX {
+  margin: 0rem 0rem 3.9rem 0.2rem;
+  height: 27.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-9-F3F {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-9-F3F .order-about-us-contact-us-main-dishes-suggest-a-restaurant-locations-nos {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-9-F3F .navigation-SNd {
+  width: 7.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-12-KhK {
+  margin-right: 18.3rem;
+  width: 15.7rem;
+  height: 23.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-12-KhK .partner-centre-partner-accessories-shop-support-tickets-add-your-restaurant-SG9 {
+  width: 15.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-12-KhK .partners-resellers-J3T {
+  width: 14.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-10-1Tf {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-10-1Tf .privacy-policy-cookie-policy-info-for-restaurants-faq-get-help-important-documents-xdo {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-10-1Tf .support-F77 {
+  width: 5.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj {
+  width: 12rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj .follow-us-K6y {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj .auto-group-fwcq-Qu7 {
+  width: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj .auto-group-fwcq-Qu7 .facebook-f-9Lu {
+  margin-bottom: 0.2rem;
+  width: 2.5rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj .auto-group-fwcq-Qu7 .instagram-5VT {
+  width: 3.3rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-eug9-8DX .group-11-NBj .auto-group-fwcq-Qu7 .twitter-RJR {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .line-2-A17 {
+  margin: 0rem 0.2rem 3.4rem 0rem;
+  width: 115.2rem;
+  height: 0.1rem;
+  background-color: rgba(16, 26, 36, 0.1000000015);
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-kahp-fyT {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 2.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-kahp-fyT .copyright-noB {
+  margin-right: 55.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-kahp-fyT .copyright-noB .copyright-symbol-svgrepo-com-1-YXT {
+  margin: 0.2rem 1rem 0rem 0rem;
+  width: 1.3rem;
+  height: 1.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-kahp-fyT .copyright-noB .tiffintom-ltd-all-rights-reserved-Fwf {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .copyrighter-section-DcM .auto-group-kahp-fyT .terms-of-service-privacy-policy-aU9 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .rectangle-33-umK {
+  width: 115.1rem;
+  height: 17.2rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 19.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .info-DX7 {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 138.85rem;
+  top: 23.55rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-41-k1F {
+  width: 13rem;
+  height: 4rem;
+  position: absolute;
+  left: 80.3rem;
+  top: 22.8rem;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+}
+.restaurant-information-9ys .rectangle-42-GkH {
+  width: 13rem;
+  height: 4rem;
+  position: absolute;
+  left: 95.2rem;
+  top: 22.8rem;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+}
+.restaurant-information-9ys .map-pin-zwB {
+  width: 1.575rem;
+  height: 1.925rem;
+  position: absolute;
+  left: 81.5625rem;
+  top: 31.9875rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-29-XRK {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 92.7rem;
+  top: 32rem;
+  background-color: #eeeeee;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .item-42-SoB {
+  width: 1.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 93rem;
+  top: 31.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.9;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ratings-8R7 {
+  width: 6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 95.75rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .caldmore-green-walsall-ws1-3rl-united-kingdom-DxM {
+  width: 30.1rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 106.9rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-27-uKP {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 58.6rem;
+  top: 32.8rem;
+  background-color: #000000;
+  border-radius: 0.2rem;
+}
+.restaurant-information-9ys .ellipse-28-2eu {
+  width: 0.4rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 69.8rem;
+  top: 32.8rem;
+  background-color: #000000;
+  border-radius: 0.2rem;
+}
+.restaurant-information-9ys .pearls-peri-peri-AWD {
+  width: 23.4rem;
+  height: 3rem;
+  position: absolute;
+  left: 50.35rem;
+  top: 23.05rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .free-delivery-G3T {
+  width: 7.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 49.8rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #0d8b0b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .min-order-kzD {
+  width: 8.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 60.2rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .miles-FRB {
+  width: 5.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 83.85rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .fast-food-Yv5 {
+  width: 7.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 83.2rem;
+  top: 23.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .grilled-rA5 {
+  width: 5.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 98.95rem;
+  top: 23.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-43-xU1 {
+  width: 13rem;
+  height: 4rem;
+  position: absolute;
+  left: 110.1rem;
+  top: 22.8rem;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+}
+.restaurant-information-9ys .halal-HFP {
+  width: 4.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 114.5rem;
+  top: 23.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .mins-akH {
+  width: 6.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 71.45rem;
+  top: 31.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-8-h4D {
+  width: 12.3rem;
+  height: 11.2rem;
+  position: relative;
+  left: 33.2rem;
+  top: 23.1rem;
+  background-size: 140.4% 100.171%;
+  background-position: -2.4524rem -0.0096rem;
+  background-image: url('../assets/image-8-gz5.png');
+}
+.restaurant-information-9ys .sign-up-button-BVB {
+  box-sizing: border-box;
+  padding: 1.2rem 2.55rem 1.1rem 1.2rem;
+  width: 15.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 129.4rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .sign-up-button-BVB .chevron-up-GmX {
+  margin-right: 1.8025rem;
+  width: 2.8475rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .sign-up-button-BVB .sign-up-c4h {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-i7j {
+  box-sizing: border-box;
+  padding: 1.2rem 3.1rem 1.5rem 1.825rem;
+  width: 15.1rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 112.3rem;
+  top: 6.5rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .log-in-button-i7j .person-1-1cd {
+  margin: 0.3rem 3.225rem 0rem 0rem;
+  width: 1.75rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-i7j .log-in-jYd {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .navigation-icon-eQh {
+  box-sizing: border-box;
+  padding: 1.5rem 0.65rem;
+  width: 5.2rem;
+  height: 6rem;
+  cursor: pointer;
+  position: absolute;
+  left: 5.9rem;
+  top: 6.2rem;
+  overflow: hidden;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #000000;
+}
+.restaurant-information-9ys .navigation-icon-eQh .vector-ifT {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .navigation-icon-eQh .vector-fah {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .navigation-icon-eQh .vector-Ds7 {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .rectangle-26-Zg5 {
+  width: 33.2rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 52.5rem;
+  top: 6.5rem;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+}
+.restaurant-information-9ys .rectangle-27-tiM {
+  width: 18rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 6.5rem;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+}
+.restaurant-information-9ys .map-pin-Dkd {
+  width: 1.8rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 8.3rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .search-Ynu {
+  width: 1.8rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 55.1rem;
+  top: 8.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .search-restaurant-or-cuisine-VCM {
+  width: 22rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 59.75rem;
+  top: 7.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.6111111111;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ws1-4ba-yNR {
+  width: 7.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 36.35rem;
+  top: 7.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .tiffiniconwhite-2-gXj {
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  left: 14.5rem;
+  top: 5.6rem;
+  background-size: 236.308% 293.763%;
+  background-position: -0rem -11.5183rem;
+  background-image: url('../assets/tiffiniconwhite-2-1SZ.png');
+}
+.restaurant-information-9ys .grilled-chicken-Aho {
+  width: 20.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 42.6rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-45-ss7 {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 50.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-PqT {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 52.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-W9P {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 58rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-1M3 {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 61.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-33-hDs {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 52.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Dxu {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 53.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-46-kxq {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 94.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-5ER {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 96.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-z6V {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 102.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-Vow {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 106rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-34-bry {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 129.1rem;
+  top: 97.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-KY5 {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 130.0583rem;
+  top: 98.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-35-4Vf {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 97.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-bVb {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 98.1583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-1-LCH {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 134.5rem;
+  top: 97.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-48-EYZ {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 50.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-9vR {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 52.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-sLd {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 58rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-aVw {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 61.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-37-5hb {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 53rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-1r9 {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 54.65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-38-xWV {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 53rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Hof {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 53.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-1-d6q {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 52.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-47-KkM {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 72.5rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-qyb {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 74.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-Zeh {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 80.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-GZ7 {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 83.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-36-yCd {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 74.9rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Vwf {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 75.8583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-49-EeM {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 72.5rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-MU5 {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 74.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-G5F {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 80.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-xyf {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 83.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-39-FSy {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 74.9rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-PJH {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 75.8583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-50-8Fs {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 94.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .wings-3dj {
+  width: 6.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 96.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-Zry {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 102.2rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-gRo {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 106rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-40-BNZ {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 97rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-HgV {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 97.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .pizzas-RXo {
+  width: 8.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 120.4rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-51-jHb {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 128.2rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-qbX {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 130.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-w8m {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 135.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-qzq {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 139.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-41-wny {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 130.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-5PP {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 131.5583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-52-QwT {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 172.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-jTw {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 174.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-SdF {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 180rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-YwB {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 183.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-42-rS5 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 129.1rem;
+  top: 175rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-zHP {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 130.0583rem;
+  top: 176.65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-43-8Pb {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 175rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Fz1 {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 175.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-1-zgh {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 134.5rem;
+  top: 174.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-53-6Dw {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 128.2rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-p9w {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 130.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-KcV {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 135.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-qKw {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 139.6rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-44-w85 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 130.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-fJy {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 132.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-45-17w {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 130.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-YNm {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 131.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-1-gUy {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 130.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-54-nH7 {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 150.3rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-JWM {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 152.6rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-1vZ {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 157.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-7ih {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 161.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-46-DWq {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 152.7rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Z4u {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 153.6583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-55-UxZ {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 150.3rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-QLR {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 152.6rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-WuF {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 157.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-EKT {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 161.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-47-LdP {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 152.7rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-fvZ {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 153.6583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-56-1Dj {
+  width: 55rem;
+  height: 18rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 172.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .margherita-pizza-itq {
+  width: 18.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 174.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-SK3 {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 180rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-kKj {
+  width: 35rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 183.8rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .ellipse-48-evu {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 174.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-nXK {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 175.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .fried-chicken-XUu {
+  width: 18.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 198.2rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-57-Eu7 {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 206rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-xaD {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 208.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-Gqo {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 216.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-nJM {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 220.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-50-sqb {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 208.4rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-c2V {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 209.3583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-59-j77 {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 206rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-rBj {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 208.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-mJh {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 216.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-5aH {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 220.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-53-Ard {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 208.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-hrZ {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 210.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-54-T53 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 208.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-Bmj {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 209.5583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-KN9 {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 208.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .log-in-button-RRB {
+  box-sizing: border-box;
+  padding: 1.3rem 2.2rem 1.3rem 2.313rem;
+  width: 29rem;
+  height: 5.6rem;
+  position: absolute;
+  left: 115.5rem;
+  top: 41.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.restaurant-information-9ys .log-in-button-RRB .shopping-cart-HyB {
+  margin: 0.1rem 1.976rem 0rem 0rem;
+  width: 2.4769rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-RRB .basket-cVf {
+  margin: 0rem 1.235rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-RRB .ellipse-15-8D7 {
+  margin: 0.6rem 1.3rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-RRB .item-4-dQm {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-RRB .ellipse-49-9P7 {
+  margin: 0.6rem 1.4rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .log-in-button-RRB .item-1496-FS9 {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .image-19-w45 {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 216.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-20-THK {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 117rem;
+  top: 216.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .rectangle-60-BUD {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 241.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-ttR {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 243.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-cJd {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 251.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-SHf {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 255.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-55-Y5o {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 244rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-4pq {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 244.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-61-o1j {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 241.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-i8h {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 243.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-2QH {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 251.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-w1T {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 255.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-56-q6q {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 244.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-mFP {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 245.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-57-HzR {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 244.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-2SD {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 245.1583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-Lxh {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 244.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-21-EoB {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 251.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-22-Mso {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 117rem;
+  top: 251.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .rectangle-62-HmT {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 277.2rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-cHw {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 279.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-vJd {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 287.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-EKK {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 291.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-58-LNM {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 279.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-TSy {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 280.5583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-63-o13 {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 277.2rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .chicken-strips-Ww3 {
+  width: 15.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 279.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-dEy {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 287.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-vzm {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 291.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-59-qM3 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 279.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-N65 {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 281.45rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-60-WCH {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 279.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-EPB {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 280.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-NEV {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 279.75rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-23-58u {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 287.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-24-bsw {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 117rem;
+  top: 287.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .vegetarian-jjF {
+  width: 15.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 316.6rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-64-D8d {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 324.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-36-8Fb {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 117rem;
+  top: 334.7rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-36-Qch.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-Qyo {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 326.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-jWH {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 334.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-SQh {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 338.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-61-94D {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 326.8rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-GPj {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 327.7583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-65-nss {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 324.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-WYy {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 326.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-1kd {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 334.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-7of {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 338.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-62-pi5 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 327rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-Yty {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 328.65rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-63-HrZ {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 327rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-ctq {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 327.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-YnV {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 326.95rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-35-3z9 {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 56.9rem;
+  top: 334.7rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-35-8KT.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .rectangle-66-wZj {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 360rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-fEq {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 362.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-yWR {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 370.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-5ZT {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 374.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-64-BcV {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 362.4rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-KCu {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 363.3583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-67-SYR {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 360rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-32-xWm {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 56.9rem;
+  top: 370.3rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-32-P9B.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-Sgq {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 362.3rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-MYu {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 370.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-T69 {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 374.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-65-Z9B {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 362.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-gzV {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 364.25rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-66-qMb {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 362.6rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-NcR {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 363.5583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-Wid {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 362.55rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-27-pDX {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: absolute;
+  left: 56.9rem;
+  top: 370.3rem;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .rectangle-68-x4q {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 89.5rem;
+  top: 395.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-rvu {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 397.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-yVj {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 405.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-Gzd {
+  width: 21.9rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 92.3rem;
+  top: 409.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-67-yu3 {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 138.6rem;
+  top: 398rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-KCD {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 139.5583rem;
+  top: 398.9583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-69-eVP {
+  width: 55rem;
+  height: 31.5rem;
+  position: absolute;
+  left: 29.4rem;
+  top: 395.6rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .veggie-burger-Mub {
+  width: 15.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 397.9rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .item-449-5ah {
+  width: 4.7rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 405.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-pearls-classic-peri-peri-chicken-wings-PbP {
+  width: 22.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 409.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+}
+.restaurant-information-9ys .ellipse-68-Hwf {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 69rem;
+  top: 398.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .minus-pwb {
+  width: 1.2833rem;
+  height: 0;
+  position: absolute;
+  left: 69.9583rem;
+  top: 399.85rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .ellipse-69-ZuB {
+  width: 3.2rem;
+  height: 3.2rem;
+  position: absolute;
+  left: 78.5rem;
+  top: 398.2rem;
+  background-color: #000000;
+  border-radius: 1.6rem;
+}
+.restaurant-information-9ys .plus-VH3 {
+  width: 1.2833rem;
+  height: 1.2833rem;
+  position: absolute;
+  left: 79.4583rem;
+  top: 399.1583rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .item-2-2Gy {
+  width: 1.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 74.4rem;
+  top: 398.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .image-31-8au {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 56.9rem;
+  top: 405.2rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-31-9Zs.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-34-cky {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 117rem;
+  top: 405.2rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-34-BJq.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .image-33-uk5 {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  left: 117rem;
+  top: 370.3rem;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-33-C8H.png');
+  border-radius: 1rem;
+}
+.restaurant-information-9ys .menu-CjB {
+  width: 6.2rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 19.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .grilled-chicken-ihX {
+  width: 13.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 25.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .pizzas-Rbw {
+  width: 5.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 29.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .fried-chicken-LU1 {
+  width: 12rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 34.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .vegetarian-rBT {
+  width: 9.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 38.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .burgers-Zbf {
+  width: 6.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 43.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .wraps-GW5 {
+  width: 5.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 48.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .mixed-grill-yfP {
+  width: 9.5rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 52.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .fresh-naan-Hvy {
+  width: 9.9rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 57.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .value-box-pAD {
+  width: 8.6rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 61.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .kids-meals-vDF {
+  width: 9.3rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 66.5rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .sides-qb7 {
+  width: 4.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 71.1rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .drinks-MpM {
+  width: 5.8rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 6.6rem;
+  top: 75.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .rectangle-89-fq3 {
+  width: 151.2rem;
+  height: 500rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.restaurant-information-9ys .rectangle-90-owF {
+  width: 100rem;
+  height: 70.9rem;
+  position: absolute;
+  left: 25.6rem;
+  top: 7.7rem;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+}
+.restaurant-information-9ys .info-XsF {
+  width: 2.5rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 97.65rem;
+  top: 11.75rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .group-47-4sB {
+  width: 33.8703rem;
+  height: 24.9078rem;
+  position: absolute;
+  left: 32.3rem;
+  top: 46.55rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.restaurant-information-9ys .group-47-4sB .delivery-hours-Bgu {
+  margin: 0rem 0.27rem 5.25rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-47-4sB .auto-group-t3gd-5nH {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-47-4sB .auto-group-t3gd-5nH .monday-tuesday-wednesday-thursday-friday-saturday-sunday-qFf {
+  margin: 0rem 8.97rem 0.358rem 0rem;
+  max-width: 9.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-47-4sB .auto-group-t3gd-5nH .pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-closed-vH7 {
+  margin-top: 0.3578rem;
+  max-width: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-49-NQ1 {
+  width: 33.8703rem;
+  height: 24.9078rem;
+  position: absolute;
+  left: 84.4rem;
+  top: 46.55rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.restaurant-information-9ys .group-49-NQ1 .collection-hours-u93 {
+  margin: 0rem 0.27rem 5.25rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-49-NQ1 .auto-group-iy7b-1Sy {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-49-NQ1 .auto-group-iy7b-1Sy .monday-tuesday-wednesday-thursday-friday-saturday-sunday-Aam {
+  margin: 0rem 8.97rem 0.358rem 0rem;
+  max-width: 9.2rem;
+  display: flex;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-49-NQ1 .auto-group-iy7b-1Sy .pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-04-00-pm-11-00-pm-closed-Tpm {
+  margin-top: 0.3578rem;
+  max-width: 15.7rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-48-jXP {
+  width: 65.3rem;
+  height: 10.15rem;
+  position: absolute;
+  left: 42.95rem;
+  top: 17.15rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.restaurant-information-9ys .group-48-jXP .about-restaurant-4pZ {
+  margin: 0rem 0rem 1.45rem 2.043rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-48-jXP .were-passionate-about-providing-delicious-and-high-quality-food-our-priority-is-to-satisfy-all-of-our-customers-needs-we-offer-a-variety-of-excellent-food-ygd {
+  max-width: 65.3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .restaurant-information-RHj {
+  width: 36.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 57.45rem;
+  top: 11.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurant-information-9ys .x-7wF {
+  width: 1.75rem;
+  height: 1.75rem;
+  position: absolute;
+  left: 30.275rem;
+  top: 12.075rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.restaurant-information-9ys .rectangle-94-ewB {
+  width: 0.4rem;
+  height: 17.3rem;
+  position: absolute;
+  left: 123.1rem;
+  top: 19.2rem;
+  background-color: #d9d9d9;
+  border-radius: 4rem;
+}
+.restaurant-information-9ys .group-46-yiZ {
+  width: 20rem;
+  height: 12.85rem;
+  position: absolute;
+  left: 65.6rem;
+  top: 30.05rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.restaurant-information-9ys .group-46-yiZ .food-hygiene-rating-Jkq {
+  margin-bottom: 2.65rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurant-information-9ys .group-46-yiZ .image-37-do7 {
+  margin-left: 0.1rem;
+  width: 14.3rem;
+  height: 7.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

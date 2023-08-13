@@ -1,0 +1,2955 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.restaurants-menu-xKs {
+  box-sizing: border-box;
+  padding: 5.6rem 6.7rem 4.8rem 5.9rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB {
+  margin-bottom: 7.2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .navigation-icon-iTT {
+  margin-right: 3.4rem;
+  box-sizing: border-box;
+  padding: 1.5rem 0.65rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0 #000000;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .navigation-icon-iTT .vector-1xM {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .navigation-icon-iTT .vector-xMo {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .navigation-icon-iTT .vector-i65 {
+  width: 3.9rem;
+  height: 0;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .tiffiniconwhite-2-FLu {
+  margin: 0rem 10.4rem 0.1rem 0rem;
+  width: 4.5rem;
+  height: 6.5rem;
+  position: relative;
+  background-size: 236.308% 293.763%;
+  background-position: -0rem -11.5183rem;
+  background-image: url('../assets/tiffiniconwhite-2-kB3.png');
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-tsjv-K5s {
+  margin: 0.8rem 5.1rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 3.35rem 1.3rem 2.9rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-tsjv-K5s .map-pin-c4y {
+  margin: 0.1rem 2.25rem 0rem 0rem;
+  width: 1.8rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-tsjv-K5s .ws1-4ba-Kzy {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-vaev-2Pb {
+  margin: 0.8rem 26.6rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.4rem 3.95rem 1.3rem 2.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-vaev-2Pb .search-8hX {
+  margin: 0.1rem 2.85rem 0rem 0rem;
+  width: 1.8rem;
+  height: 1.8rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .auto-group-vaev-2Pb .search-restaurant-or-cuisine-4bB {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.6111111111;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .log-in-button-kiu {
+  margin: 0.8rem 2rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.2rem 3.1rem 1.5rem 1.825rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .log-in-button-kiu .person-1-rmw {
+  margin: 0.3rem 3.225rem 0rem 0rem;
+  width: 1.75rem;
+  height: 2.25rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .log-in-button-kiu .log-in-ybf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .sign-up-button-h1s {
+  margin-top: 0.8rem;
+  box-sizing: border-box;
+  padding: 1.2rem 2.55rem 1.1rem 1.2rem;
+  display: flex;
+  align-items: center;
+  background-color: #f4f3f3;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .sign-up-button-h1s .chevron-up-1YM {
+  margin-right: 1.8026rem;
+  width: 2.8474rem;
+  height: 3.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-vouv-PRB .sign-up-button-h1s .sign-up-LqX {
+  margin-bottom: 0.4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo {
+  margin: 0rem 0rem 1.7rem 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 17.8rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-efw1-MVj {
+  margin-right: 9.4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-efw1-MVj .menu-u1T {
+  margin-bottom: 2.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 800;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-efw1-MVj .grilled-chicken-DXw {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-efw1-MVj .pizzas-uQm {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-efw1-MVj .fried-chicken-boP {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb {
+  box-sizing: border-box;
+  padding: 3.4rem 3.15rem 2.15rem 3.8rem;
+  height: 17.2rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .image-8-16R {
+  margin: 0.15rem 4.3rem 0rem 0rem;
+  width: 12.3rem;
+  height: 11.2rem;
+  position: relative;
+  background-size: 140.4% 100.171%;
+  background-position: -2.4524rem -0.0096rem;
+  background-image: url('../assets/image-8-65P.png');
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT {
+  margin: 0.25rem 2.55rem 0.15rem 0rem;
+  width: 27.95rem;
+  height: calc(100% - 0.4rem);
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .pearls-peri-peri-oHB {
+  margin-bottom: 5.35rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 {
+  width: 100%;
+  height: 2.9rem;
+  display: flex;
+  align-items: center;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .free-delivery-4U1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #0d8b0b;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .auto-group-8fut-zMf {
+  box-sizing: border-box;
+  padding-left: 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .auto-group-8fut-zMf .ellipse-27-ja9 {
+  margin: 0.3rem 1.2rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: #000000;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .auto-group-8fut-zMf .min-order-46d {
+  margin-right: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .auto-group-8fut-zMf .ellipse-28-NND {
+  margin: 0.3rem 1.25rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  background-color: #000000;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tvg5-gTT .auto-group-o9rr-ub7 .auto-group-8fut-zMf .mins-tLZ {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB {
+  margin-right: 0.5rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-ovu7-xbK {
+  margin-bottom: 4.6rem;
+  width: 13rem;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K {
+  margin-left: 1.2625rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K .map-pin-a6u {
+  margin: 0.05rem 0.713rem 0rem 0rem;
+  width: 1.575rem;
+  height: 1.925rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K .miles-srh {
+  margin: 0rem 3.65rem 0.15rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K .auto-group-qdtd-BcV {
+  margin-top: 0.15rem;
+  width: 2rem;
+  height: 2.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K .auto-group-qdtd-BcV .ellipse-29-Kyb {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 0.45rem;
+  background-color: #eeeeee;
+  border-radius: 1rem;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-tqms-1RB .auto-group-d5x7-q9K .auto-group-qdtd-BcV .item-42-rid {
+  width: 1.4rem;
+  height: 2.9rem;
+  position: absolute;
+  left: 0.3rem;
+  top: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 2.9;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 {
+  margin: 0rem 1.85rem 0.15rem 0rem;
+  width: 41.8rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-wmht-5LV {
+  margin: 0rem 13.9rem 4.6rem 0rem;
+  width: calc(100% - 13.9rem);
+  height: 4rem;
+  display: flex;
+  align-items: center;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-wmht-5LV .auto-group-b6qx-bJq {
+  margin-right: 1.9rem;
+  width: 13rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-wmht-5LV .auto-group-74gz-Gvm {
+  width: 13rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.6111111111;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #f4f3f3;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-2akh-9zZ {
+  margin-left: 0.55rem;
+  width: calc(100% - 0.55rem);
+  display: flex;
+  align-items: center;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-2akh-9zZ .ratings-W4R {
+  margin-right: 5.15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  text-decoration-line: underline;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .auto-group-n59j-8w3 .auto-group-2akh-9zZ .caldmore-green-walsall-ws1-3rl-united-kingdom-2Hf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 2.2307692308;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-zgmf-FBo .auto-group-luqm-KDb .info-Y17 {
+  margin-bottom: 7.65rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX {
+  margin: 0rem 0rem 1.3rem 0.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .auto-group-kfjx-X7w {
+  margin: 0rem 12.9rem 0.4rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .auto-group-kfjx-X7w .vegetarian-Fpd {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .auto-group-kfjx-X7w .burgers-ykd {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .grilled-chicken-vA5 {
+  margin: 0rem 65.6rem 1.3rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX {
+  margin-top: 2.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 2.2rem 1.3rem 2.313rem;
+  display: flex;
+  align-items: center;
+  background-color: #000000;
+  border-radius: 3rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .shopping-cart-LzV {
+  margin: 0.1rem 1.976rem 0rem 0rem;
+  width: 2.4768rem;
+  height: 2.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .basket-U57 {
+  margin: 0rem 1.235rem 0.1rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .ellipse-15-NwB {
+  margin: 0.6rem 1.3rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .item-4-t8q {
+  margin: 0.1rem 1.3rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .ellipse-49-oFo {
+  margin: 0.6rem 1.4rem 0rem 0rem;
+  width: 0.4rem;
+  height: 0.4rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.2rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-kd8d-PXX .log-in-button-RsX .item-1496-hc5 {
+  margin-top: 0.1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #ffffff;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm {
+  margin: 0rem 0rem 1.7rem 0.7rem;
+  width: calc(100% - 0.7rem);
+  height: 21.3rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 {
+  height: 100%;
+  row-gap: 1.7rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 .wraps-DTw {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 .mixed-grill-xRX {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 .fresh-naan-VwF {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 .value-box-3C5 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-bvtu-gD7 .kids-meals-yrR {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F {
+  box-sizing: border-box;
+  padding: 2.3rem 0rem 1rem 12.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-t2nm-N7s {
+  margin-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-t2nm-N7s .wings-JnD {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-t2nm-N7s .item-449-SdX {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-t2nm-N7s .x-pearls-classic-peri-peri-chicken-wings-Zi9 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-9xad-tEd {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .item-1-buj {
+  margin: 0.25rem 2.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-taem-FZ3 .auto-group-xwsd-KKw {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT .auto-group-zhn1-LVw {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT .auto-group-zhn1-LVw .wings-Hg5 {
+  margin-right: 39.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT .auto-group-zhn1-LVw .auto-group-e3qs-cTT {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT .item-449-wVj {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-xr3k-AEm .auto-group-w8cr-X7F .auto-group-xyr1-1yT .x-pearls-classic-peri-peri-chicken-wings-Gnu {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP {
+  margin: 0rem 0rem 4.1rem 0.7rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-dkbs-uL5 {
+  margin-right: 17rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-dkbs-uL5 .sides-TcV {
+  margin-bottom: 1.7rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-dkbs-uL5 .drinks-z6d {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj {
+  margin: 1.4rem 5.1rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj .auto-group-uyar-dvH {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj .auto-group-uyar-dvH .wings-nHP {
+  margin-right: 39.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj .auto-group-uyar-dvH .auto-group-77wx-Wz5 {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj .item-449-rY9 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-xfuk-8Tj .x-pearls-classic-peri-peri-chicken-wings-BaR {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 {
+  margin-top: 1.4rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 .auto-group-7iwk-D1K {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 .auto-group-7iwk-D1K .wings-Zay {
+  margin-right: 39.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 .auto-group-7iwk-D1K .auto-group-hgxq-hSH {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 .item-449-2zM {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-mniu-AdP .auto-group-5q9w-gn5 .x-pearls-classic-peri-peri-chicken-wings-ZjP {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH {
+  margin: 0rem 0rem 7.8rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 18rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f .auto-group-4owq-VFf {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f .auto-group-4owq-VFf .wings-SAu {
+  margin-right: 39.7rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f .auto-group-4owq-VFf .auto-group-hyjk-xuw {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f .item-449-HxD {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-mhop-C1f .x-pearls-classic-peri-peri-chicken-wings-pSM {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-wknh-deh {
+  margin-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-wknh-deh .wings-aK3 {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-wknh-deh .item-449-WTb {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-wknh-deh .x-pearls-classic-peri-peri-chicken-wings-3Cd {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-1evf-Mj7 {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .item-1-Uoj {
+  margin: 0.25rem 2.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-axnh-sEH .auto-group-ee6m-K8D .auto-group-hapr-CDw {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .pizzas-tsT {
+  margin: 0rem 83.1rem 4.9rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 18rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-yuqm-FbX {
+  margin-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-yuqm-FbX .margherita-pizza-Cmf {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-yuqm-FbX .item-449-Xow {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-yuqm-FbX .x-pearls-classic-peri-peri-chicken-wings-Thb {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-sqzk-njs {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .item-1-JCR {
+  margin: 0.25rem 2.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-4osx-w53 .auto-group-fpqj-QmF {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh .auto-group-ubwo-pa5 {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh .auto-group-ubwo-pa5 .margherita-pizza-Adw {
+  margin-right: 27.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh .auto-group-ubwo-pa5 .auto-group-yx1f-VRK {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh .item-449-dXX {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-r2zw-cYZ .auto-group-z5tf-Vnh .x-pearls-classic-peri-peri-chicken-wings-NED {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 18rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 .auto-group-qx8d-utM {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 .auto-group-qx8d-utM .margherita-pizza-fcd {
+  margin-right: 27.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 .auto-group-qx8d-utM .auto-group-tgru-azV {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 .item-449-iau {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-zbkm-Pv1 .x-pearls-classic-peri-peri-chicken-wings-rSD {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT .auto-group-shx7-5Jy {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT .auto-group-shx7-5Jy .margherita-pizza-Rdj {
+  margin-right: 27.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT .auto-group-shx7-5Jy .auto-group-jdl5-kvu {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT .item-449-Uc1 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-xqgy-GKb .auto-group-4zld-wyT .x-pearls-classic-peri-peri-chicken-wings-NhP {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK {
+  margin: 0rem 0rem 7.8rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 18rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih .auto-group-ksvz-eYR {
+  margin-bottom: 2rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih .auto-group-ksvz-eYR .margherita-pizza-BoF {
+  margin-right: 27.8rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih .auto-group-ksvz-eYR .auto-group-bdpw-ioB {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih .item-449-G41 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-lzus-Xih .x-pearls-classic-peri-peri-chicken-wings-bc5 {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.7rem 2.8rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-ycmf-1fo {
+  margin-right: 1.8rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-ycmf-1fo .margherita-pizza-k7b {
+  margin-bottom: 2.4rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-ycmf-1fo .item-449-Grd {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-ycmf-1fo .x-pearls-classic-peri-peri-chicken-wings-Qhw {
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-2yqr-k17 {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .item-1-fNy {
+  margin: 0.25rem 2.2rem 0rem 0rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-djxx-ddK .auto-group-tiav-hf7 .auto-group-iuey-yuT {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .fried-chicken-PiH {
+  margin: 0rem 73.3rem 4.9rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-nn7j-Yjb {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-nn7j-Yjb .chicken-strips-gqo {
+  margin: 0rem 21rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-nn7j-Yjb .auto-group-bvnq-Qmo {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-nn7j-Yjb .item-2-jZB {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-nn7j-Yjb .auto-group-m4l9-4bT {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-gaph-Pdj {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-gaph-Pdj .auto-group-e8au-kUH {
+  margin-right: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-gaph-Pdj .auto-group-e8au-kUH .item-449-WCZ {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-gaph-Pdj .auto-group-e8au-kUH .x-pearls-classic-peri-peri-chicken-wings-cmP {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-kinm-Eiu .auto-group-gaph-Pdj .image-19-wHs {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-gcup-whB {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-gcup-whB .chicken-strips-tsK {
+  margin-right: 30.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-gcup-whB .auto-group-6wrs-dK7 {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-nroj-xcH {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-nroj-xcH .auto-group-6p2y-Wth {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-nroj-xcH .auto-group-6p2y-Wth .item-449-GN5 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-nroj-xcH .auto-group-6p2y-Wth .x-pearls-classic-peri-peri-chicken-wings-Bjw {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-sluh-iEm .auto-group-p7hj-24R .auto-group-nroj-xcH .image-20-6c1 {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-7njt-TDb {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-7njt-TDb .chicken-strips-zUR {
+  margin: 0rem 21rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-7njt-TDb .auto-group-i6ft-uLV {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-7njt-TDb .item-2-S5X {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-7njt-TDb .auto-group-hfcm-xZf {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-en2v-tiD {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-en2v-tiD .auto-group-j8c9-r9F {
+  margin-right: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-en2v-tiD .auto-group-j8c9-r9F .item-449-Pus {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-en2v-tiD .auto-group-j8c9-r9F .x-pearls-classic-peri-peri-chicken-wings-KoX {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-qiq1-hbo .auto-group-en2v-tiD .image-21-r2m {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-6rwt-TYM {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-6rwt-TYM .chicken-strips-os7 {
+  margin-right: 30.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-6rwt-TYM .auto-group-i1pm-wCd {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-zn97-5Jq {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-zn97-5Jq .auto-group-oxgu-2js {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-zn97-5Jq .auto-group-oxgu-2js .item-449-b2H {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-zn97-5Jq .auto-group-oxgu-2js .x-pearls-classic-peri-peri-chicken-wings-uof {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-9uow-bHs .auto-group-xjm3-Lid .auto-group-zn97-5Jq .image-22-S2u {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H {
+  margin: 0rem 0rem 7.9rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-b3pu-kxh {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-b3pu-kxh .chicken-strips-JUR {
+  margin: 0rem 21rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-b3pu-kxh .auto-group-qnsb-n8h {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-b3pu-kxh .item-2-hFf {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-b3pu-kxh .auto-group-ryfs-cdX {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-lttd-8rm {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-lttd-8rm .auto-group-grkf-VBX {
+  margin-right: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-lttd-8rm .auto-group-grkf-VBX .item-449-doX {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-lttd-8rm .auto-group-grkf-VBX .x-pearls-classic-peri-peri-chicken-wings-kdF {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-waad-FW9 .auto-group-lttd-8rm .image-23-sSy {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-8wbx-t7B {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-8wbx-t7B .chicken-strips-EB3 {
+  margin-right: 30.5rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-8wbx-t7B .auto-group-jvd3-kfB {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-ps8h-Hf7 {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-ps8h-Hf7 .auto-group-5c7t-T3o {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-ps8h-Hf7 .auto-group-5c7t-T3o .item-449-bvh {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-ps8h-Hf7 .auto-group-5c7t-T3o .x-pearls-classic-peri-peri-chicken-wings-LNV {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-z7px-L8H .auto-group-ydfx-xzD .auto-group-ps8h-Hf7 .image-24-43b {
+  width: 24.8rem;
+  height: 17.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .vegetarian-MHb {
+  margin: 0rem 76.4rem 4.9rem 0rem;
+  display: flex;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 0.9666666667;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-tsbt-STT {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-tsbt-STT .veggie-burger-yyB {
+  margin: 0rem 21.5rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-tsbt-STT .auto-group-czg5-6H7 {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-tsbt-STT .item-2-ohK {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-tsbt-STT .auto-group-fkqm-ipH {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-u3bf-TWy {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-u3bf-TWy .auto-group-ioar-DW9 {
+  margin-right: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-u3bf-TWy .auto-group-ioar-DW9 .item-449-NP3 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-u3bf-TWy .auto-group-ioar-DW9 .x-pearls-classic-peri-peri-chicken-wings-VTf {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-8mvk-z5f .auto-group-u3bf-TWy .image-35-1wo {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-35.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-svot-nr5 {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-svot-nr5 .veggie-burger-8uw {
+  margin-right: 31rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-svot-nr5 .auto-group-45gm-sMj {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-ysg1-boX {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-ysg1-boX .auto-group-hzhx-kwK {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-ysg1-boX .auto-group-hzhx-kwK .item-449-7G5 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-ysg1-boX .auto-group-hzhx-kwK .x-pearls-classic-peri-peri-chicken-wings-39j {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-fxht-U7K .auto-group-ccgy-sUD .auto-group-ysg1-boX .image-36-MRK {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-36.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP {
+  margin: 0rem 0rem 4.1rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-aaqh-T6y {
+  margin-bottom: 4.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-aaqh-T6y .veggie-burger-biy {
+  margin: 0rem 21.5rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-aaqh-T6y .auto-group-xt5p-KQ5 {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-aaqh-T6y .item-2-eSM {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-aaqh-T6y .auto-group-n3db-mWy {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm {
+  width: 100%;
+  height: 17.4rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-dwcz-St1 {
+  margin-right: 2.4rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-dwcz-St1 .item-449-bW1 {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-dwcz-St1 .x-pearls-classic-peri-peri-chicken-wings-XPf {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-p4e5-rB3 {
+  width: 24.8rem;
+  height: 100%;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-32-bg.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-p4e5-rB3 .image-27-13w {
+  width: 100%;
+  height: 17.4rem;
+  border-radius: 1rem;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-sw4q-8qP .auto-group-nm9b-Vxm .auto-group-p4e5-rB3 .auto-group-p4e5-rB3-bg {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:c329dc1a1be625455c132506f47334e1a76abf72');
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 3.8rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-xnhp-k9w {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-xnhp-k9w .veggie-burger-uHj {
+  margin-right: 31rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-xnhp-k9w .auto-group-uv41-S2m {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-ftzj-NBK {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-ftzj-NBK .auto-group-gcsd-vTj {
+  margin-right: 2.8rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-ftzj-NBK .auto-group-gcsd-vTj .item-449-UEM {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-ftzj-NBK .auto-group-gcsd-vTj .x-pearls-classic-peri-peri-chicken-wings-oXX {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-tsu3-QuP .auto-group-mesb-Dfo .auto-group-ftzj-NBK .image-33-jRB {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-33.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 {
+  margin: 0rem 0rem 30.2rem 23.5rem;
+  width: calc(100% - 23.5rem);
+  height: 31.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH {
+  margin-right: 5.1rem;
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 4.5rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-zxnz-SU1 {
+  margin-bottom: 3.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-zxnz-SU1 .veggie-burger-BgV {
+  margin: 0rem 21.5rem 0.6rem 0rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-zxnz-SU1 .auto-group-eryj-huj {
+  margin: 0.3rem 2.2rem 0rem 0rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-zxnz-SU1 .item-2-2x1 {
+  margin-right: 2.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  line-height: 0.8285714286;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-zxnz-SU1 .auto-group-fbnr-xKs {
+  margin-top: 0.3rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-pit3-6BB {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-pit3-6BB .auto-group-74mo-3s7 {
+  margin: 0.7rem 2.4rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-pit3-6BB .auto-group-74mo-3s7 .item-449-nph {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-pit3-6BB .auto-group-74mo-3s7 .x-pearls-classic-peri-peri-chicken-wings-iTT {
+  max-width: 22.3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-srxk-KeH .auto-group-pit3-6BB .image-31-3Eq {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-31.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq {
+  box-sizing: border-box;
+  padding: 2.3rem 2.7rem 4.5rem 2.8rem;
+  width: 55rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0 0.4rem rgba(0, 0, 0, 0.0500000007);
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-rnlr-S25 {
+  margin-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-rnlr-S25 .veggie-burger-PCD {
+  margin-right: 31rem;
+  display: flex;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.16;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-rnlr-S25 .auto-group-vxyu-7tu {
+  margin-top: 0.1rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-vgwv-FkD {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-vgwv-FkD .auto-group-sdrj-cKs {
+  margin: 0.7rem 2.8rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-vgwv-FkD .auto-group-sdrj-cKs .item-449-kgy {
+  margin-bottom: 0.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #000000;
+  font-family: Visby CF, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-vgwv-FkD .auto-group-sdrj-cKs .x-pearls-classic-peri-peri-chicken-wings-HS1 {
+  max-width: 21.9rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.45;
+  color: #8b8f8f;
+  font-family: Visby CF, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .auto-group-aaky-zc1 .auto-group-g4vd-unq .auto-group-vgwv-FkD .image-34-1N1 {
+  width: 24.8rem;
+  height: 17.4rem;
+  position: relative;
+  background-size: 105.434% 100%;
+  background-position: -0.6238rem 0rem;
+  background-image: url('../assets/image-34.png');
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K {
+  margin: 0rem 11.2rem 0rem 12rem;
+  width: calc(100% - 23.2rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV {
+  margin: 0rem 0rem 3.9rem 0.2rem;
+  height: 27.6rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-9-tq7 {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-9-tq7 .order-about-us-contact-us-main-dishes-suggest-a-restaurant-locations-qVT {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-9-tq7 .navigation-i3T {
+  width: 7.7rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-12-cPj {
+  margin-right: 18.3rem;
+  width: 15.7rem;
+  height: 23.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-12-cPj .partner-centre-partner-accessories-shop-support-tickets-add-your-restaurant-YoB {
+  width: 15.7rem;
+  height: 20rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-12-cPj .partners-resellers-dZj {
+  width: 14.5rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-10-jcm {
+  margin-right: 18.1rem;
+  width: 16.5rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-10-jcm .privacy-policy-cookie-policy-info-for-restaurants-faq-get-help-important-documents-V69 {
+  width: 16.5rem;
+  height: 24rem;
+  position: absolute;
+  left: 0;
+  top: 3.6rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-10-jcm .support-mpM {
+  width: 5.8rem;
+  height: 4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh {
+  width: 12rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh .follow-us-qpD {
+  margin: 0rem 0.1rem 0.2rem 0rem;
+  font-size: 1.2rem;
+  font-weight: 700;
+  line-height: 3.3333333333;
+  text-transform: uppercase;
+  color: #101a24;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh .auto-group-ukv1-xP3 {
+  width: 100%;
+  display: flex;
+  column-gap: 1.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh .auto-group-ukv1-xP3 .facebook-f-uJH {
+  margin-bottom: 0.2rem;
+  width: 2.5rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh .auto-group-ukv1-xP3 .instagram-S3K {
+  width: 3.3rem;
+  height: 3.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-ttph-mkV .group-11-Hnh .auto-group-ukv1-xP3 .twitter-yow {
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .line-2-X4m {
+  margin: 0rem 0.2rem 3.4rem 0rem;
+  width: 115.2rem;
+  height: 0.1rem;
+  background-color: rgba(16, 26, 36, 0.1000000015);
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-cb6q-qbF {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  width: calc(100% - 0.3rem);
+  height: 2.9rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-cb6q-qbF .copyright-ZXF {
+  margin-right: 55.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-cb6q-qbF .copyright-ZXF .copyright-symbol-svgrepo-com-1-WhP {
+  margin: 0.2rem 1rem 0rem 0rem;
+  width: 1.3rem;
+  height: 1.2999rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-cb6q-qbF .copyright-ZXF .tiffintom-ltd-all-rights-reserved-dGD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.restaurants-menu-xKs .copyrighter-section-s9K .auto-group-cb6q-qbF .terms-of-service-privacy-policy-x3b {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.8125;
+  color: #5c6574;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
